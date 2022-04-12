@@ -6,3 +6,5 @@
 - ✍ I'm a student of: [Bach Khoa Ha Noi](https://www.hust.edu.vn/) (HUST).
 
 - 🌱 I’m a NEWBIE
+- 🎉 Use the file C to manage information students
+- 🔥 A small project !!!
